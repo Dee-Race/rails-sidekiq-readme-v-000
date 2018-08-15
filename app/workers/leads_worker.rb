@@ -8,4 +8,3 @@ class LeadsWorker
     end
   end
 end
-end
